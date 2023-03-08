@@ -1,5 +1,5 @@
 from empleado import empleado
-from otro.cliente import cliente
+from proyecto_persona_hospital.cliente import cliente
 from persona import persona
 
 
